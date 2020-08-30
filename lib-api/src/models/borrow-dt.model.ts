@@ -12,7 +12,7 @@ import {settings} from "cluster";
           foreignKey: 'memId',
     },
     bookId:{
-          name: 'booId',
+          name: 'bookId',
           entity: 'Book',
           entityKey: 'id',
           foreignKey: 'memId'
